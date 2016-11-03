@@ -1,0 +1,6 @@
+{
+  "name": "My project",
+  "tagline": "This is a test repository.",
+  "body": "1111111\r\n222222\r\n3333333333\r\n\r\ngit is a distributed version control system.\r\nGit has a mutable index called stage.\r\n\r\nThis is a bug.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
